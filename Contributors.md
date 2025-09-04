@@ -2510,5 +2510,6 @@ DanyLeeCS
 - [bi3mer](https://github.com/bi3mer)
 - [Nguyễn Hữu Trọng](https://github.com/huutrongk24)
 - [audrbsdl](https://github.com/audrbsdl)
+- [Nguyen Le Minh Tu](https://github.com/MinhTu-nl)
 
 abc
